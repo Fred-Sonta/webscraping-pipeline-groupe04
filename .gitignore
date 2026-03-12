@@ -72,3 +72,8 @@ coverage.xml
 .DS_Store
 Thumbs.db
 
+#Others
+
+PROJET_FINAL_WEBSCRAPING.md
+.gitignore
+
