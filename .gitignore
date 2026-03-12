@@ -1,0 +1,74 @@
+# ==========================================
+# ENVIRONNEMENT VIRTUEL
+# ==========================================
+# Ton environnement spécifique
+webs.env/
+venv/
+env/
+.env
+
+# ==========================================
+# FICHIERS PYTHON & CACHE
+# ==========================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# ==========================================
+# SCRAPY & DONNÉES LOCALES
+# ==========================================
+# Dossier de cache Scrapy
+.scrapy
+# Fichiers de données temporaires 
+*.csv
+*.json
+*.jl
+*.xml
+*.log
+
+# ==========================================
+# CELERY
+# ==========================================
+celerybeat-schedule
+celerybeat.pid
+*.pid
+
+# ==========================================
+# TESTS (PYTEST)
+# ==========================================
+.pytest_cache/
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+nosetests.xml
+coverage.xml
+*.cover
+
+# ==========================================
+# IDE & OS (Mac/Windows/Linux)
+# ==========================================
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
