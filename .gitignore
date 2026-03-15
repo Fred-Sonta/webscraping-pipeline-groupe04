@@ -1,0 +1,16 @@
+.env
+webs.env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.eggs/
+scraper/raw_data/
+logs/
+*.log
+.DS_Store
+Thumbs.db
